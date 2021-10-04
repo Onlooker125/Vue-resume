@@ -1,0 +1,111 @@
+html,
+body,
+div,
+span,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+em,
+img,
+strong,
+dd,
+dl,
+dt,
+li,
+ol,
+ul,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+input,
+button,
+select,
+textarea,
+b,
+i {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  resize: none;
+}
+
+html,
+body {
+  background-color: transparent !important;
+  font-family: "Microsoft YaHei", Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  /*chrome、safari*/
+  -moz-osx-font-smoothing: grayscale;
+  /*firefox*/
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  color: #999999;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  border: 0;
+  vertical-align: middle;
+}
+
+i {
+  font-style: normal;
+}
+
+input,
+textarea {
+  outline: none;
+  background: #fff;
+  font-family: "Microsoft YaHei", Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+  font-family: 'DINCondensed-Bold';
+  /* src : url('../fonts/DINCondensedBold.ttf');*/
+}
