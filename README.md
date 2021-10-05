@@ -5,4 +5,4 @@ yarn版本：v1.12.1
 启动: yarn serve
 打包：yarn build
 
-##  stardima 小项目
+##  startdima 小项目
